@@ -1,4 +1,4 @@
-### Hello, I'm Zach
+### Hello, I'm Zach 👋
 
 <!--
 **Zryer/Zryer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Completed a Full Stack Web Development Course in October 2021. 📚
+### Looking to work on projects that help me learn more. 📖
